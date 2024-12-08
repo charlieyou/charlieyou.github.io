@@ -1,0 +1,15 @@
+body { 
+    font-family: sans-serif; 
+    max-width: 600px; 
+    margin: 40px auto;
+    padding: 20px;
+}
+
+a { 
+    text-decoration: underline; 
+}
+
+a:hover { 
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+} 
