@@ -1,0 +1,6 @@
+services:
+  site:
+    command: python3 -m http.server "$PORT" --bind 0.0.0.0
+    portal:
+      title: Site
+      description: Static preview of index.html; reload the page to see edits.
